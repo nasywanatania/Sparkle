@@ -5,14 +5,11 @@ import time
 def jalanin_lirik():
 
     lirik = [
-        ("Temanku semua pada jahat tante...", 0.1),
-        ("Aku lagi susah mereka gak ada...", 0.09),
-        ("Coba kalo lagi jayaaa...", 0.09),
-        ("Aku dipuja puja tante...", 0.09),
-        ("Sudah terbiasa terjadi tante...", 0.09),
-        ("Teman datang ketika lagi butuh saja...", 0.09),
-        ("Coba kalau lagi susaahhhh...", 0.09),
-        ("Mereka semua menghilaaaanggg🤣🤣🤭", 0.09),
+        ("Zutto nani ka wo… berani ka wo… sagashite iru....", 0.1),
+        ("Iiyou to omottan da, omae ga sekai no doko ni idemo, ore ga kanarazu ichido ai ni ikutte...", 0.09),
+        ("Omae wa… berani da…? bijih wa doushite koko ni kita ? aitsu ni, aitsu ni au jinak ni kita. Tasukeru jinak ni kita. Ini dia hoshikatta...", 0.09),
+        ("Daijina hito, wasuretakunai hito, wasurecha dame na hito. Berani da, berani da, berani da, namae wa...", 0.09),
+        ("Watashitachi wa aeba zettai, sugu ni wakaru...", 0.09),
     ]
 
     # Delay antarbaris (8 baris lirik)
