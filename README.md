@@ -9,6 +9,7 @@ def jalanin_lirik():
         ("Aku lagi susah mereka gak ada...", 0.09),
         ("Coba kalo lagi jayaaa...", 0.09),
         ("Aku dipuja puja tante...", 0.09),
+        ("Sudah terbiasa terjadi tante...",0.09),
         ("Teman datang ketika lagi butuh saja...", 0.09),
         ("Coba kalau lagi susaahhhh...", 0.09),
         ("Mereka semua menghilaaaanggg🤣🤣🤭", 0.09),
