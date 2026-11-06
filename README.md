@@ -15,7 +15,7 @@ def jalanin_lirik():
     # Delay antarbaris (8 baris lirik)
     delay = [0.3, 0.2, 0.3, 0.4, 0.6, 0.3, 0.3, 1.0]
 
-    print("\n== JJ - Temanku Semua Pada Jahat Tante ==\n")
+    print("\n== Your name ==\n")
 
     for i, (baris_lagu, delay_karakter) in enumerate(lirik):
 
